@@ -3,3 +3,4 @@ Anita 35000
 Ravi 30000
 Rahul 40000
 Juhi 50000
+Vaishu 25000
