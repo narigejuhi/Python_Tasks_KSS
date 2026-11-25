@@ -1,0 +1,2 @@
+{'Juhi': 85, 'Vijay': 45, 'Ravi': 65, 'priya': 90, 'Anu': 40}
+Average Marks:65
